@@ -1,4 +1,3 @@
-gitlearn add one line
 gitlearn1 add one line
 gitlearn2 add second line
 这是一个 readme
